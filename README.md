@@ -19,9 +19,8 @@
 ### Open port 
 ```
 ufw allow ssh
-ufw enable
+ufw enable -y
 ```
-`y`
 
 ### Update depencies
 ```
